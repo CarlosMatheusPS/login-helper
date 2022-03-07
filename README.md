@@ -1,4 +1,4 @@
 # login-helper
- Um formulário de Login sem interação com banco de dados.
+ Um formulário de Login.
 
 Par vizualizar o projeto: https://carlosmatheusps.github.io/login-helper/
